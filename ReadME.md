@@ -13,3 +13,8 @@ Conclusion -
 The results obtained after the execution of our project determines that our product will alert the user when the temperature of the freezer crosses a particular threshold value or the freezer is kept open for some time.
  This will ensure that the contents of the freezer(food) remain fresh instead of getting wasted. 
 Also can be used for monitoring Chiller Plants for Server Rooms.Organizations will experience less network failures
+
+Collaborators - 
+Vishwa Shrirame
+Aniket Shinde
+Hitesh Soneta
